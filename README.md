@@ -8,7 +8,7 @@ O **NEXUS** foi um projeto desenvolvido durante o **Amazon Hacking 2026**, promo
 
 O projeto foi desenvolvido por uma equipe interdisciplinar formada por estudantes de **Ciência da Computação, Engenharia da Computação, Administração, Publicidade e Propaganda e Arquitetura e Urbanismo**.
 
-##  Apresentação do Projeto
+
 
 ##  Apresentação do Projeto
 
