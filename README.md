@@ -179,9 +179,9 @@ Este repositório tem finalidade **acadêmica e de portfólio**, documentando a 
 
 
 
-## 📸 Registro do Projeto
+##  Registro do Projeto
 
-### 🎪 Feira de Exposição
+###  Feira de Exposição
 
 <p align="center">
   <img src="assets/feira.jpg" width="700">
@@ -193,10 +193,10 @@ Este repositório tem finalidade **acadêmica e de portfólio**, documentando a 
 
 ---
 
-### 🌱 Imersão na Comunidade
+###  Imersão na Comunidade
 
 <p align="center">
-  <img src="assets/imersao-agricultura.jpg" width="700">
+  <img src=" " width="700">
 </p>
 
 <p align="center">
@@ -205,10 +205,10 @@ Este repositório tem finalidade **acadêmica e de portfólio**, documentando a 
 
 ---
 
-### 🏡 Conhecendo a realidade local
+###  Conhecendo a realidade local
 
 <p align="center">
-  <img src="assets/comunidade.jpg" width="700">
+  <img src=" " width="700">
 </p>
 
 <p align="center">
@@ -217,10 +217,10 @@ Este repositório tem finalidade **acadêmica e de portfólio**, documentando a 
 
 ---
 
-### 🌳 Experiência em campo
+###  Experiência em campo
 
 <p align="center">
-  <img src="assets/caminho-comunidade.jpg" width="700">
+  <img src=" " width="700">
 </p>
 
 <p align="center">
@@ -229,10 +229,10 @@ Este repositório tem finalidade **acadêmica e de portfólio**, documentando a 
 
 ---
 
-### 💻 Prototipação
+###  Prototipação
 
 <p align="center">
-  <img src="assets/prototipo-raspberry.jpg" width="700">
+  <img src=" " width="700">
 </p>
 
 <p align="center">
