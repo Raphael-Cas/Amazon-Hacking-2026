@@ -10,15 +10,9 @@ O projeto foi desenvolvido por uma equipe interdisciplinar formada por estudante
 
 ##  Apresentação do Projeto
 
-<p align="center">
-  <a href="https://youtu.be/8mB5iYkz26k">
-    <img src="https://img.youtube.com/vi/8mB5iYkz26k/maxresdefault.jpg" width="800">
-  </a>
-</p>
+##  Apresentação do Projeto
 
-<p align="center">
-  <i>Apresentação do projeto NEXUS durante o Amazon Hacking 2026.</i>
-</p>
+[▶️ Assista à apresentação do NEXUS no Amazon Hacking 2026](https://youtu.be/8mB5iYkz26k)
 
 ---
 
