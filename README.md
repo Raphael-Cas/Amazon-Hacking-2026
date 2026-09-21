@@ -33,9 +33,7 @@ A partir dessas observações, o projeto buscou desenvolver uma solução que co
 * Acompanhamento de resultados;
 * Capacitação da comunidade.
 
-##  Fotos do Projeto
 
-![Foto do projeto](assets/IMG_0378.JPEG)
 ---
 
 ## A solução proposta:
