@@ -8,6 +8,9 @@ O **NEXUS** foi um projeto desenvolvido durante o **Amazon Hacking 2026**, promo
 
 O projeto foi desenvolvido por uma equipe interdisciplinar formada por estudantes de **Ciência da Computação, Engenharia da Computação, Administração, Publicidade e Propaganda e Arquitetura e Urbanismo**.
 
+**NEXUS** was a project developed during **Amazon Hacking 2026**, promoted by the **University Center of the State of Pará (CESUPA)**, with the goal of developing a solution focused on the educational and productive challenges identified in the community of **Jutaiteua, in the municipality of Moju, Pará, Brazil**.
+
+The project was developed by an interdisciplinary team composed of students from **Computer Science, Computer Engineering, Business Administration, Advertising and Publicity, and Architecture and Urbanism**.
 
 
 ##  Apresentação do Projeto
