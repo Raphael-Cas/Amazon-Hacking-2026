@@ -95,7 +95,7 @@ Além disso, participei das apresentações realizadas durante a **feira de expo
 ---
 
 
-# 🛠️ Tecnologias e conceitos
+#  Tecnologias e conceitos
 
 O projeto envolveu conceitos relacionados a:
 
