@@ -177,4 +177,65 @@ Projeto desenvolvido no âmbito do **Amazon Hacking 2026**, como parte do Projet
 
 Este repositório tem finalidade **acadêmica e de portfólio**, documentando a participação no Amazon Hacking 2026, o processo de pesquisa, a proposta de solução, a prototipação e as contribuições realizadas durante o projeto.
 
+
+
+## 📸 Registro do Projeto
+
+### 🎪 Feira de Exposição
+
+<p align="center">
+  <img src="assets/feira.jpg" width="700">
+</p>
+
+<p align="center">
+  <i>Apresentação do projeto durante a feira de exposição dos projetos finalistas do Amazon Hacking 2026.</i>
+</p>
+
+---
+
+### 🌱 Imersão na Comunidade
+
+<p align="center">
+  <img src="assets/imersao-agricultura.jpg" width="700">
+</p>
+
+<p align="center">
+  <i>Momento de imersão e interação com os agricultores durante a visita à comunidade.</i>
+</p>
+
+---
+
+### 🏡 Conhecendo a realidade local
+
+<p align="center">
+  <img src="assets/comunidade.jpg" width="700">
+</p>
+
+<p align="center">
+  <i>Visita às estruturas e espaços utilizados pela comunidade durante a etapa de imersão.</i>
+</p>
+
+---
+
+### 🌳 Experiência em campo
+
+<p align="center">
+  <img src="assets/caminho-comunidade.jpg" width="700">
+</p>
+
+<p align="center">
+  <i>Deslocamento e exploração do território durante a experiência de campo.</i>
+</p>
+
+---
+
+### 💻 Prototipação
+
+<p align="center">
+  <img src="assets/prototipo-raspberry.jpg" width="700">
+</p>
+
+<p align="center">
+  <i>Registro de uma etapa de prototipação e experimentação tecnológica relacionada ao projeto.</i>
+</p>
 O projeto foi desenvolvido com foco na integração entre **tecnologia, educação e desenvolvimento sustentável na Amazônia**.
