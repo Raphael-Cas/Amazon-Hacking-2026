@@ -92,7 +92,7 @@ Participei da **prototipação do software desenvolvido para a comunidade**, con
 
 Essa etapa foi importante para conectar as necessidades identificadas durante a imersão às funcionalidades propostas para a plataforma.
 
-###  Apresentação
+###  Pitchs 
 
 Também participei da apresentação do projeto junto aos demais integrantes da equipe no **palco principal do Amazon Hacking 2026**, apresentando a solução e o processo de desenvolvimento do NEXUS.
 
