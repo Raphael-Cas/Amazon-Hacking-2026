@@ -21,7 +21,7 @@ The project was developed by an interdisciplinary team composed of students from
 
 [ Acesse o instagram do NEXUS](https://www.instagram.com/nexus.regenera/)
 
-[ Registro de Fotos]()
+
 
 ---
 
