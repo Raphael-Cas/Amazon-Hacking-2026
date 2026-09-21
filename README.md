@@ -12,7 +12,7 @@ O projeto foi desenvolvido por uma equipe interdisciplinar formada por estudante
 
 ##  Apresentação do Projeto
 
-[▶️ Assista à apresentação do NEXUS no Amazon Hacking 2026](https://youtu.be/8mB5iYkz26k)
+[ Assista à apresentação do NEXUS no Amazon Hacking 2026](https://youtu.be/8mB5iYkz26k)
 
 [ Acesse o instagram do NEXUS](https://www.instagram.com/nexus.regenera/)
 
