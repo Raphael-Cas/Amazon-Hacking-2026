@@ -2,7 +2,7 @@
 This repository aims to document my experience and contributions to the Amazon Hacking 2026 project.
 
 
-# 🌱 NEXUS — Amazon Hacking 2026
+# 🌱 NEXUS Amazon Hacking 2026
 
 O **NEXUS** foi um projeto desenvolvido durante o **Amazon Hacking 2026**, promovido pelo Centro Universitário do Estado do Pará (CESUPA), com o objetivo de desenvolver uma solução voltada aos desafios educacionais e produtivos identificados na comunidade de **Jutaiteua, no município de Moju PA**.
 
